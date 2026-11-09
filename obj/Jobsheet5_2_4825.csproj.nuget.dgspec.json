@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DPK-PPLG\\Semester-Ganjil\\Jobsheet5_2_4825\\Jobsheet5_2_4825\\Jobsheet5_2_4825.csproj": {}
+    "D:\\DPK-PPLG\\Semester-Ganjil\\bab_05_02\\Jobsheet5_2_4825\\Jobsheet5_2_4825.csproj": {}
   },
   "projects": {
-    "D:\\DPK-PPLG\\Semester-Ganjil\\Jobsheet5_2_4825\\Jobsheet5_2_4825\\Jobsheet5_2_4825.csproj": {
+    "D:\\DPK-PPLG\\Semester-Ganjil\\bab_05_02\\Jobsheet5_2_4825\\Jobsheet5_2_4825.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DPK-PPLG\\Semester-Ganjil\\Jobsheet5_2_4825\\Jobsheet5_2_4825\\Jobsheet5_2_4825.csproj",
+        "projectUniqueName": "D:\\DPK-PPLG\\Semester-Ganjil\\bab_05_02\\Jobsheet5_2_4825\\Jobsheet5_2_4825.csproj",
         "projectName": "Jobsheet5_2_4825",
-        "projectPath": "D:\\DPK-PPLG\\Semester-Ganjil\\Jobsheet5_2_4825\\Jobsheet5_2_4825\\Jobsheet5_2_4825.csproj",
+        "projectPath": "D:\\DPK-PPLG\\Semester-Ganjil\\bab_05_02\\Jobsheet5_2_4825\\Jobsheet5_2_4825.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\DPK-PPLG\\Semester-Ganjil\\Jobsheet5_2_4825\\Jobsheet5_2_4825\\obj\\",
+        "outputPath": "D:\\DPK-PPLG\\Semester-Ganjil\\bab_05_02\\Jobsheet5_2_4825\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
